@@ -9,7 +9,7 @@ JLinkLog.txt
 *.crf  
 *.tra  
 *.axf  
-*.hex  
+#*.hex  
 *.lnp  
 *.sct  
 *.__i  
